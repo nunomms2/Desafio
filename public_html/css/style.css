@@ -1,0 +1,81 @@
+html {
+    background-color: #8fa8be;
+}
+
+header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    height: 100vh;
+}
+
+section {
+    padding: 60px;
+    text-align: center;
+    background: #54ecce;
+    color: white;
+    font-size: 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #90c2b8;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+
+li a:hover {
+    background-color: #111;
+}
+
+a {
+    color: #021627;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+h2 {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 40px 8px 10px 8px;
+    color: #1310e6;
+}
+
+p {
+    font-size: 14px;
+}
+
+footer {
+    background-color: #1482ad;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 14px;
+    text-align: center;
+    padding: 3px;
+}
